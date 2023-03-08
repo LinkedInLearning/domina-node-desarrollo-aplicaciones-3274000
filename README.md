@@ -19,10 +19,12 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+   - Node.js
+   - Editor de Texto (En el curso se utiliza Visual Studio Code)
+   - MySQL 8.0.32
+   - MySQL Worbench
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
 
 ### Docente
 
