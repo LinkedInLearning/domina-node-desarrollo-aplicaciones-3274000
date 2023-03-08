@@ -1,0 +1,1 @@
+const saludo = '¡Hola, mundo!';
