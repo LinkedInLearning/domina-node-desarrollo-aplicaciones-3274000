@@ -1,5 +1,5 @@
 {
-  "name": "01_04_i",
+  "name": "01_04",
   "version": "1.0.0",
   "description": "Crear una conexión de la bases de datos mysql con node.js",
   "main": "index.js",
