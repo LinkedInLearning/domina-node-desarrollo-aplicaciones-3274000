@@ -1,5 +1,5 @@
 {
-  "name": "01_06",
+  "name": "02_06",
   "version": "1.0.0",
   "description": "Prevenir inyección de SQL en Node.js",
   "main": "app.js",
