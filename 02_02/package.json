@@ -1,0 +1,12 @@
+{
+  "name": "02_02",
+  "version": "1.0.0",
+  "description": "¿Cómo convertir el módulo commonjs al módulo es6 en Node.js?",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LinkedIn Learning",
+  "license": "ISC"
+}
