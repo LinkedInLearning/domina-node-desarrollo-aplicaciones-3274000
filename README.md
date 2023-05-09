@@ -1,4 +1,4 @@
-# Domina Node: Desarrollo de aplicaciones
+# Domina Node: Desarrollo de aplicaciones 
 
 Este es el repositorio del curso de LinkedIn Learning `Domina Node: Desarrollo de aplicaciones`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
